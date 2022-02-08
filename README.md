@@ -1,0 +1,2 @@
+# OrthographicDetector
+Correct misspelled text
